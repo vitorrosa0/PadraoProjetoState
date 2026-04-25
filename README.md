@@ -1,3 +1,3 @@
 # PadraoProjetoState
 
-<img width="1004" height="629" alt="image" src="https://github.com/user-attachments/assets/ef2b38fc-9770-4f32-b231-e768a605b4c7" />
+<img width="8192" height="3494" alt="image" src="https://github.com/user-attachments/assets/cc8e1c54-899c-4df4-a152-fbf0fbb74e87" />
