@@ -27,8 +27,8 @@ class ContaTest {
 
     @Test
     void deveEspecializarContaAtiva() {
-        assertTrue(conta.bloquear());
-        assertEquals(ContaEstadoBloqueada.getInstancia(), conta.getEstado());
+        assertTrue(conta.especializar());
+        assertEquals(ContaEstadoEspecial.getInstancia(), conta.getEstado());
     }
 
     @Test
